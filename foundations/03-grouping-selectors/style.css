@@ -1,0 +1,14 @@
+.firstbutt {
+    background-color: black;
+    color: white;
+}
+
+.secondbutt {
+    background-color: yellow;
+}
+
+.firstbutt,
+.secondbutt {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
